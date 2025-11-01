@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Project — Regression & Classification
+# 🧠 White Box - Supervised ML Project
 
 ## 📘 Overview
 This project demonstrates the development of **two types of supervised machine learning models** — **Regression** and **Classification** — using real-world datasets.  
